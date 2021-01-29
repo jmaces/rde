@@ -1,2 +1,2 @@
-# rde
-Rate-Distortion Explanations (coming soon)
+# Rate-Distortion Explanations (RDE)
+The code for the experiments in our paper on the rate-distortion explanation method for interpretable neural networks will be made available here soon...
