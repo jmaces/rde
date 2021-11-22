@@ -11,4 +11,4 @@ multi_line_output = 3
 not_skip = "__init__.py"
 use_parentheses = true
 known_first_party = ["instances","models", "rde"]
-known_third_party = ["innvestigate", "keras", "kerasadf", "lime", "matplotlib", "numpy", "scipy", "shap", "statstream", "tensorflow", "tikzplotlib", "tqdm"]
+known_third_party = ["innvestigate", "keras", "kerasadf", "lime", "matplotlib", "numpy", "scipy", "shap", "skimage", "statstream", "tensorflow", "tikzplotlib", "tqdm"]
